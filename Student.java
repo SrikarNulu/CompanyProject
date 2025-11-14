@@ -88,5 +88,8 @@ class Student extends Person
 	   Student s1 = new Student(1,"CJ",3500, "Srikar Nulu", 23,163,57);
 
      System.out.println(s1);
+
+     Student s2 = new Student(2,"Python",3200, "N S", 22,162,55);
+      System.out.println(s1);
    }
 }
